@@ -1,1 +1,0 @@
-/home/visione/Projects/KobukiRobot/build/kobuki_safety_controller/ament_cmake_core/kobuki_safety_controllerConfig.cmake

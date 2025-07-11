@@ -1,1 +1,0 @@
-/home/visione/Projects/KobukiRobot/build/kobuki_keyop/ament_cmake_core/kobuki_keyopConfig-version.cmake

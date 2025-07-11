@@ -1,1 +1,0 @@
-/home/visione/Projects/KobukiRobot/src/kobuki_ros/kobuki_safety_controller/launch/safety_controller-launch.py

@@ -1,1 +1,0 @@
-/home/visione/Projects/KobukiRobot/build/kobuki_bumper2pc/ament_cmake_core/kobuki_bumper2pcConfig-version.cmake

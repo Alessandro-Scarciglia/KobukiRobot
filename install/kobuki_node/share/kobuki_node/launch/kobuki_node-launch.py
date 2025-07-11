@@ -1,1 +1,0 @@
-/home/visione/Projects/KobukiRobot/src/kobuki_ros/kobuki_node/launch/kobuki_node-launch.py

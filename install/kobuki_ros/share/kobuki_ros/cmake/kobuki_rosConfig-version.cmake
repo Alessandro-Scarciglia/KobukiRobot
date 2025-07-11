@@ -1,1 +1,0 @@
-/home/visione/Projects/KobukiRobot/build/kobuki_ros/ament_cmake_core/kobuki_rosConfig-version.cmake

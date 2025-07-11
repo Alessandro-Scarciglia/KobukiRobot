@@ -207,6 +207,6 @@ marimo/_lsp/
 __marimo__/
 
 # ROS2
-/build
-/log
-/install
+build/
+log/
+install/

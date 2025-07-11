@@ -1,1 +1,0 @@
-/home/visione/Projects/KobukiRobot/build/kobuki_ros/ament_cmake_environment_hooks/local_setup.zsh
