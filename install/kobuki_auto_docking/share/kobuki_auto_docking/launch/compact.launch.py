@@ -1,0 +1,1 @@
+/home/visione/Projects/KobukiRobot/src/kobuki_ros/kobuki_auto_docking/launch/compact.launch.py

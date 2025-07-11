@@ -1,0 +1,1 @@
+/home/visione/Projects/KobukiRobot/build/kobuki_node/ament_cmake_core/kobuki_nodeConfig-version.cmake

@@ -1,0 +1,1 @@
+/home/visione/Projects/KobukiRobot/src/kobuki_ros/kobuki_auto_docking/include/kobuki_auto_docking/auto_docking_ros.hpp

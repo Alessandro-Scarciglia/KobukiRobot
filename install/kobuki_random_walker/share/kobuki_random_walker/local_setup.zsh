@@ -1,0 +1,1 @@
+/home/visione/Projects/KobukiRobot/build/kobuki_random_walker/ament_cmake_environment_hooks/local_setup.zsh
